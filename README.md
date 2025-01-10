@@ -110,6 +110,12 @@ To run the code in this repository, you need to install the required dependencie
 - Generate a word cloud to visualize the most frequently occurring terms in the dataset.
 - Display analysis results using `matplotlib`.
 
+### 5. Sentiment Analysis
+
+- Perform sentiment analysis on the tweets using the `TextBlob` library.
+- Classify tweets as positive, negative, or neutral based on sentiment scores.
+- Save into a CSV file for further analysis.
+
 ## Conclusion
 
 This project demonstrates how to integrate Twitter data scraping with text analysis techniques to gain insights from social media data. While this is a basic implementation, it serves as a strong foundation for more complex analyses, such as sentiment analysis, topic modeling, and trend prediction.
